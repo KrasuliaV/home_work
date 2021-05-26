@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.cursor.krasulia.home_work.hw_spring_boot.autoconfiguration.HomeAutoconfiguration
